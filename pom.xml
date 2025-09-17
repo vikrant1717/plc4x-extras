@@ -91,6 +91,8 @@
     <project.build.outputTimestamp>2025-08-06T15:45:09Z</project.build.outputTimestamp>
 
     <plc4x.version>0.14.0-SNAPSHOT</plc4x.version>
+  <sonar.organization>vikrant1717</sonar.organization>
+
   </properties>
 
   <build>
